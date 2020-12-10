@@ -1,0 +1,11 @@
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.dll
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.xml
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\avarge_calc.csprojResolveAssemblyReference.cache
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormCustomercs.resources
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\avarge_calc.csproj.GenerateResource.Cache
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\c#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
